@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\bin\Debug\PMSService.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\bin\Debug\PMSService.pdb
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\bin\Debug\PMSCommon.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\bin\Debug\PMSModels.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\bin\Debug\Dapper.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\bin\Debug\PMSCommon.pdb
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\bin\Debug\PMSModels.pdb
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\bin\Debug\Dapper.xml
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\obj\Debug\PMSService.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\obj\Debug\PMSService.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\obj\Debug\PMSService.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSService\obj\Debug\PMSService.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\bin\Debug\PMSCommon.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\bin\Debug\PMSCommon.pdb
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\bin\Debug\Dapper.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\bin\Debug\Dapper.xml
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\obj\Debug\PMSCommon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\obj\Debug\PMSCommon.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\obj\Debug\PMSCommon.pdb
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSCommon\obj\Debug\PMSCommon.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSModels\bin\Debug\PMSModels.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSModels\bin\Debug\PMSModels.pdb
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSModels\obj\Debug\PMSModels.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSModels\obj\Debug\PMSModels.dll
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSModels\obj\Debug\PMSModels.pdb
+C:\Users\Dell\Desktop\Current Projects\PMS\PMSModels\obj\Debug\PMSModels.csprojResolveAssemblyReference.cache
